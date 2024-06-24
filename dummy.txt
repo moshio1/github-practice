@@ -5,4 +5,7 @@
 
 '; select * from UserAccount;
 
+//pull
+//push
+
 コミットの練習
